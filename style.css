@@ -1,0 +1,43 @@
+@font-face {
+    font-family: "Ribeye Marrow";
+    src: url(fonts/GFDsWApshnqMRO2JdtRZ2d0vIAsZVA.woff2);
+}
+
+body{
+    background-color: #CBAC4d;
+}
+
+h1{
+    font-family: "Ribeye Marrow";
+    text-align: center;
+    font-size: 3em;
+    text-transform: uppercase;
+    letter-spacing: 27px;
+}
+
+header p{
+    margin: 0 30%;
+    text-align: justify;
+    font-family: 'Cambay', sans-serif;
+    font-size: 1.2em;
+    line-height: 200%;
+}
+
+cite{
+    text-decoration: underline;
+}
+
+main p{
+    font-size: 2.5em;
+}
+
+p.izquierda{
+    font-family: 'Berkshire Swash', cursive;  
+}
+
+p.derecha{
+    font-family: 'Kalam', cursive;
+    text-align: right;
+    color: whitesmoke;
+    font-size: 2em;
+}
